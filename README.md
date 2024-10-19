@@ -64,6 +64,10 @@ Ensure you have the following dependencies installed before running the notebook
    ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn xgboost keras tensorflow scikeras mlxtend
 ```
+Alternatively, you can install all required dependencies at once using the requirements.txt file:
+```bash
+pip install -r requirements.txt
+```
 
 ## Future Improvements
 - **Real-time Phishing Detection**: Incorporate real-time detection to classify URLs as they are entered.
