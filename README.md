@@ -61,8 +61,8 @@ The detailed performance of other models such as Random Forest, Bagging Classifi
 
 ## Installation
 Ensure you have the following dependencies installed before running the notebook:
-
-pip install pandas numpy matplotlib seaborn scikit-learn xgboost keras tensorflow scikeras mlxtend
+   ```bash
+   pip install pandas numpy matplotlib seaborn scikit-learn xgboost keras tensorflow scikeras mlxtend
 
 ## License
 This project is licensed under the MIT License.
