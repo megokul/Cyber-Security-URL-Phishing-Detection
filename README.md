@@ -59,6 +59,9 @@ The detailed performance of other models such as Random Forest, Bagging Classifi
    ```bash
    git clone https://github.com/your-username/repo-name.git
 
+## License
+This project is licensed under the MIT License.
+
 ## Installation
 Ensure you have the following dependencies installed before running the notebook:
    ```bash
