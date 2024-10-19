@@ -64,5 +64,3 @@ Ensure you have the following dependencies installed before running the notebook
    ```bash
    pip install pandas numpy matplotlib seaborn scikit-learn xgboost keras tensorflow scikeras mlxtend
 
-## License
-This project is licensed under the MIT License.
