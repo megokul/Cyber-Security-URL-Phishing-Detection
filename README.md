@@ -57,7 +57,7 @@ The detailed performance of other models such as Random Forest, Bagging Classifi
 ## How to Use
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/megokul/repo-name.git
+   git clone https://github.com/megokul/Cyber-Security-URL-Phishing-Detection.git
 
 ## Installation
 Ensure you have the following dependencies installed before running the notebook:
